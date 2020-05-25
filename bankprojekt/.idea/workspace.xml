@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9258440-4828-4260-8fea-d229d0819e53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Kontentest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/GesperrtException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/Girokonto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/Konto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/Kontoart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/Kunde.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/Sparbuch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/Ueberweisungsfaehig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/Waehrung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GirokontoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungen/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungen/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungen/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungen/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungen/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungen/out/production/Übungen/Bruch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungen/out/production/Übungen/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungen/src/Bruch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungen/src/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungen/Übungen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungsveranstaltung 02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungsveranstaltung 02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungsveranstaltung 02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungsveranstaltung 02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungsveranstaltung 02/.idea/Übungsveranstaltung 02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungsveranstaltung 02/src/Oberklasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungsveranstaltung 02/src/Polymorphietest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übungsveranstaltung 02/src/Unterklasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,19 +18,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+            <state relative-caret-position="722">
+              <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="255">
               <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -174,6 +141,13 @@
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -190,7 +164,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -203,7 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,6 +241,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -275,7 +249,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Private/Programmieren 3/BankMitKevin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../api" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -336,8 +310,17 @@
       <option name="presentableId" value="Default" />
       <updated>1584360477439</updated>
       <workItem from="1584360480148" duration="9478000" />
-      <workItem from="1587043890274" duration="266000" />
+      <workItem from="1587043890274" duration="3501000" />
+      <workItem from="1588240002183" duration="90000" />
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <created>1587044179095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587044179095</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -346,12 +329,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9744000" />
+    <option name="totallyTimeSpent" value="13069000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12686567" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12910284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -418,6 +401,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/Kunde.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -445,8 +432,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+        <state relative-caret-position="722">
+          <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -501,18 +500,6 @@
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bankprojekt/verarbeitung/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
           </folding>
         </state>
       </provider>
